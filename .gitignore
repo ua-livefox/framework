@@ -1,0 +1,29 @@
+# PHP
+*.log
+*.tmp
+*.temp
+*.cache
+
+# IDEs and Editors
+/.idea/
+/*.sublime-workspace
+/*.sublime-project
+/.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Custom
+/.env
+/config/*.local
+
+# Additional specific files
+*.logs
+*.osp

@@ -1,0 +1,2 @@
+# Set line end style for all text files as Line Feed
+* text=auto eol=lf
